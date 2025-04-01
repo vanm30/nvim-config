@@ -25,6 +25,10 @@ return {
         help = true,     -- Enable Copilot for help files
         typescriptreact = true,
         javascriptreact = true,
+        python = true,
+        typescript = true,
+        javascript = true,
+        json = true,
       },
     })
   end,
