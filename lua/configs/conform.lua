@@ -3,7 +3,8 @@ local options = {
     lua = { "stylua" },
     css = { "prettier" },
     html = { "prettier" },
-    json = { "prettier" }
+    json = { "prettier" },
+    java = { "google_java_format" },
   },
 
   format_on_save = {
